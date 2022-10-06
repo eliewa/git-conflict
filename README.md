@@ -4,8 +4,4 @@
 
 I am here and everything
 
-## To Do 
-- first
-- second 
-- third
-
+Don't forget to bring cash just in case. 
