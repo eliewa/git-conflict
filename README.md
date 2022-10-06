@@ -8,3 +8,8 @@ I am here and everything
 
 Don't forget to bring cash just in case. 
 
+## Reasons I'm Stressed;
+- this class
+- this class
+- zoom meetings
+- github
