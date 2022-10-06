@@ -1,3 +1,5 @@
 # git-conflict
 
-Hello Im a ReadMe
+## Hello everyone
+
+I am here and everything
