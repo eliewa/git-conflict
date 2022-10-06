@@ -11,5 +11,4 @@ I love css and grid, lol
 ## Reasons I'm Stressed;
 - this class
 - this class
-- zoom meetings
-- github
+- beacause of Haley
