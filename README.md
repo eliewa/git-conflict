@@ -11,6 +11,7 @@ I love css and grid, lol
 ## Reasons I'm Stressed;
 - this class
 - this class
-- beacause of Haley
+- beacause of Eli
 
 ## Title One
+- this is info about title one git
