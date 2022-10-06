@@ -4,7 +4,6 @@
 
 I am here and everything
 
-1, 2, 3, 4,5
+### List went missing
 
-Don't forget to bring cash just in case. 
-
+It is competition time!
