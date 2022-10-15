@@ -2,7 +2,7 @@ hello world
 
 # git-conflict
 
-## Hello everyone
+## Goodbye everyone
 
 I am here and everything
 
